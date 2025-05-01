@@ -1,4 +1,4 @@
-# 📊 Sales Analysis Dashboard – Excel Project
+## 📊 Sales Analysis Dashboard – Excel Project
 
 This interactive Excel dashboard leverages pivot tables, slicers, and calculated fields to analyze sales across multiple store locations.  
 
@@ -7,14 +7,14 @@ It highlights:
 - 📈 Key sales trends
 - 📦 Product demand patterns
 
-  # DASHBOARD
+  ### DASHBOARD
 
 
   ![Interactive Coffee Shop Dashboard](https://github.com/user-attachments/assets/60fc1658-886e-4c9e-86b5-a90cabdc772e)
 
 
 
- # PRODUCT Versus REVENUE Chart
+ ### PRODUCT Versus REVENUE Chart
 
  
 
